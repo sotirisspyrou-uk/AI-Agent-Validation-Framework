@@ -1,0 +1,26 @@
+{
+  "regulatory_frameworks": [
+    "EU AI Act - Article 16 (Responsibilities along the AI value chain)",
+    "UK DSIT Model - Governance and Accountability",
+    "ISO/IEC 23894:2023 - Risk management"
+  ],
+  "assessment_criteria": [
+    "Governance structures",
+    "Audit trail capabilities",
+    "Incident response procedures",
+    "Responsibility assignment"
+  ],
+  "best_practices": [
+    "Establish clear AI governance",
+    "Implement comprehensive logging",
+    "Define escalation procedures",
+    "Regular audit and review processes"
+  ],
+  "scoring_rubric": {
+    "excellent": 4.5,
+    "good": 3.5,
+    "satisfactory": 2.5,
+    "needs_improvement": 1.5,
+    "poor": 0.5
+  }
+}

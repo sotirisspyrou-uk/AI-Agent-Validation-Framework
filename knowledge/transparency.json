@@ -1,0 +1,26 @@
+{
+  "regulatory_frameworks": [
+    "EU AI Act - Article 13 (Transparency obligations)",
+    "UK DSIT Model for Responsible Innovation",
+    "ISO/IEC 23053:2022 - Framework for AI systems using ML"
+  ],
+  "assessment_criteria": [
+    "Documentation completeness",
+    "Model explainability",
+    "Decision process clarity",
+    "Stakeholder communication"
+  ],
+  "best_practices": [
+    "Maintain comprehensive model cards",
+    "Implement explainable AI techniques",
+    "Provide clear user interfaces",
+    "Document limitations and capabilities"
+  ],
+  "scoring_rubric": {
+    "excellent": 4.5,
+    "good": 3.5,
+    "satisfactory": 2.5,
+    "needs_improvement": 1.5,
+    "poor": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "regulatory_frameworks": [
+    "EU AI Act - Article 10 (Risk management system)",
+    "UK Equality Act 2010",
+    "IEEE Std 2857-2021 - Privacy engineering"
+  ],
+  "assessment_criteria": [
+    "Bias detection and mitigation",
+    "Data representativeness",
+    "Outcome equity",
+    "Fairness metrics"
+  ],
+  "best_practices": [
+    "Regular bias auditing",
+    "Diverse training datasets",
+    "Fairness-aware algorithms",
+    "Stakeholder involvement in design"
+  ],
+  "scoring_rubric": {
+    "excellent": 4.5,
+    "good": 3.5,
+    "satisfactory": 2.5,
+    "needs_improvement": 1.5,
+    "poor": 0.5
+  }
+}
